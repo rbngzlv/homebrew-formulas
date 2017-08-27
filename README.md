@@ -6,7 +6,12 @@
 brew install rbngzlv/homebrew-formulas/<formula>
 ```
 
-Or `brew tap rbngzlv/homebrew-formulas` and then `brew install <formula>`.
+Or
+
+```
+brew tap rbngzlv/homebrew-formulas
+brew install <formula>
+```
 
 Or install via URL (which will not receive updates):
 
